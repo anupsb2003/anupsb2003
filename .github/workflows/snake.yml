@@ -1,28 +1,33 @@
-name: Generate Snake Animation
+name: Generate Snake
 
+# run every 6 hours + manual trigger
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
           persist-credentials: false
 
-      - name: Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
+        id: generate
         with:
           github_user_name: anupsb2003
-          outputs: dist/snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake
+      - name: Commit generated files to output branch
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Generated snake"
-          file_pattern: dist/snake.svg
+          commit_message: "chore: generate snake"
+          file_pattern: "dist/**"
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
