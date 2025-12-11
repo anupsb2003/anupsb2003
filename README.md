@@ -1,5 +1,4 @@
-![Snake Animation](https://raw.githubusercontent.com/anup-s-b-4095812b4/anup-s-b-4095812b4/output/dist/github-contribution-grid-snake.svg)
-
+![Snake Animation](https://raw.githubusercontent.com/anupsb2003/anupsb2003/output/dist/snake.svg?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
