@@ -1,6 +1,4 @@
-![Developer GIF](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/developer.gif)
-
-
+![Coding](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
