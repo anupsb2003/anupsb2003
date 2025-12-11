@@ -1,4 +1,4 @@
-![Wave](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![AI GIF](https://raw.githubusercontent.com/kubowania/kubowania/master/images/developer.gif)
 
 
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
