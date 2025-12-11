@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
 <h3 align="center">👨‍💻 About Me</h3>
 
+- 🛠️ I’m currently building AI/ML-powered applications and modern **React-based web/mobile interfaces**
+
+- 🌱 I’m currently learning advanced machine learning, MLOps, cloud deployment, and **React Native.**
+
+- 🙌 I’m looking for help with optimizing ML models, improving UI/UX, and **deploying scalable apps.**
+
+- 🤝 I’m looking to collaborate on React projects, AI/ML systems, full-stack apps, and **open-source work.**
+
 - 👨‍💻 All of my projects are available at [https://anupsb-portfolio-nexus.lovable.app/](https://anupsb-portfolio-nexus.lovable.app/)
 
+- 💬 Ask me about React, Python, Machine Learning, Deep Learning, Full-Stack Development, and App Development. **React Native, React.js.**
+
 - 📫 How to reach me **anupsb2003@gmail.com**
+
+- ⚡ Fun fact: I love merging AI with real-world applications and designing smooth user experiences with React! **work on App Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
