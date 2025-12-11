@@ -1,4 +1,4 @@
-![Matrix](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Wave](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
