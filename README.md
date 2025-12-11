@@ -1,5 +1,4 @@
-![Snake Animation](https://raw.githubusercontent.com/anupsb2003/anupsb2003/output/dist/snake.svg?raw=true)
-
+![snake gif](https://github.com/anupsb2003/anupsb2003/blob/output/snake.svg)
 
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
 <h3 align="center">👨‍💻 About Me</h3>
