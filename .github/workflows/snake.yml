@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: anupsb2003
+          outputs: dist/snake.svg
+
+      - name: Push Snake
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generated snake"
+          file_pattern: dist/snake.svg
