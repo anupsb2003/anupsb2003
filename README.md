@@ -1,4 +1,6 @@
-![NvL](https://github.com/rachit2022/rachit2022/blob/master/github_prof.gif)
+![Developer GIF](https://github.com/Anmol-Baranwal/Anmol-Baranwal/blob/main/assets/developer.gif)
+
+
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
 <h3 align="center">👨‍💻 About Me</h3>
 
