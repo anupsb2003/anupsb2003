@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anup S B</h1>
 <h3 align="center">👨‍💻 About Me</h3>
 
-- 🛠️ I’m currently building AI/ML-powered applications and modern **React-based web/mobile interfaces**
+- 🛠️ I’m currently building AI/ML-powered applications and modern **React-based web/mobile interfaces **
 
 - 🌱 I’m currently learning advanced machine learning, MLOps, cloud deployment, and **React Native.**
 
