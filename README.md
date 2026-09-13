@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on React projects, AI/ML systems, full-stack apps, and **open-source work.**
 
-- 👨‍💻 All of my projects are available at [https://anupsb-portfolio-nexus.lovable.app/]([https://anupsb-portfolio-nexus.lovable.app/](https://anupsb-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://anupsb-portfolio-nexus.lovable.app/]([https://anupsb-portfolio.netlify.app/]))
 
 - 💬 Ask me about React, Python, Machine Learning, Deep Learning, Full-Stack Development, and App Development. **React Native, React.js.**
 
