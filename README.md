@@ -1,223 +1,239 @@
-<h4 align="center">
-  👋 Welcome to my <a href="https://anupsb-portfolio.netlify.app/" target="_blank">Portfolio</a>
-</h4>
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hi 👋, I'm Anup S B</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:7c3aed&height=220&section=header&text=ANUP%20S%20B&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+</p>
 
-<h3 align="center">
-  AI/ML Developer • Full-Stack Developer • React & React Native Developer
-</h3>
+<p align="center">
+  <a href="https://anupsb-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-00E5FF?style=for-the-badge&labelColor=050816&color=00E5FF" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/anupsb2003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:anupsb2003@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm Anup S B
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Digital+Experiences" alt="Typing Animation"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupsb2003&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/anupsb2003?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="Followers"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🛠️ I’m currently building **AI/ML-powered applications**, modern **React web applications**, and **React Native mobile applications**.
+```typescript
+const anup = {
+  name: "Anup S B",
+  role: "Full Stack Developer",
+  location: "Bangalore, India",
 
-* 🌱 I’m currently learning **Advanced Machine Learning, Deep Learning, MLOps, Cloud Deployment, System Design, and React Native**.
+  frontend: [
+    "React.js",
+    "React Native",
+    "TypeScript",
+    "JavaScript",
+    "Next.js"
+  ],
 
-* 🤝 I’m looking to collaborate on **React projects, AI/ML systems, full-stack applications, mobile apps, and open-source projects**.
+  backend: [
+    "Node.js",
+    "Express.js",
+    "Java",
+    "Python"
+  ],
 
-* 🚀 I’m interested in building **scalable, intelligent, and user-friendly applications** that solve real-world problems.
+  databases: [
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL"
+  ],
 
-* 👨‍💻 Explore all of my projects on my **[Portfolio](https://anupsb-portfolio.netlify.app/)**.
+  interests: [
+    "Full Stack Development",
+    "Interactive UI/UX",
+    "AI & Machine Learning",
+    "Problem Solving"
+  ],
 
-* 💬 Ask me about **React.js, React Native, TypeScript, Python, Machine Learning, Deep Learning, Full-Stack Development, and App Development**.
+  currentlyLearning: [
+    "Advanced JavaScript",
+    "System Design",
+    "Cloud Deployment",
+    "Machine Learning"
+  ],
 
-* 📫 Reach me at **[anupsb2003@gmail.com](mailto:anupsb2003@gmail.com)**.
+  goal: "Build scalable, intelligent and user-friendly applications"
+};
+```
 
-* ⚡ Fun fact: I enjoy combining **Artificial Intelligence with real-world applications** while creating smooth and engaging user experiences for **web and mobile platforms**.
+### ⚡ A little about me
+
+* 🔭 Currently building modern, responsive and interactive web applications.
+* 🌱 Exploring full-stack development, advanced JavaScript, AI/ML and cloud technologies.
+* 💡 Interested in creating digital experiences that combine beautiful interfaces with practical functionality.
+* 🤝 Open to collaborating on React, full-stack, mobile and open-source projects.
+* 🎯 Focused on improving problem-solving, system design and software development skills.
+* 🚀 My portfolio: <a href="https://anupsb-portfolio.netlify.app/">anupsb-portfolio.netlify.app</a>
+* 📫 Email: <a href="mailto:anupsb2003@gmail.com">[anupsb2003@gmail.com](mailto:anupsb2003@gmail.com)</a>
+
+---
+
+## 🧠 My Developer Mindset
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Create-00E5FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code"/>
+  <img src="https://img.shields.io/badge/Learn-Improve-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn"/>
+  <img src="https://img.shields.io/badge/Build-Innovate-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Build"/>
+</p>
+
+> "Great software is built with curiosity, consistency, and a passion for solving problems."
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚛️ Frontend & Mobile
+
+<p align="center">
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/></a>
+  <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="55" alt="React Native"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"/></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" width="55" alt="Vite"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS"/></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+</p>
+
+### 🖥️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mongodb,mysql,postgresql,firebase" alt="Backend and database technologies"/>
+</p>
+
+### 🤖 AI, ML & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and Machine Learning"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,androidstudio,arduino" alt="Tools and platforms"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/anupsb2003/Food-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anupsb2003&repo=Food-blog&theme=tokyonight&hide_border=true" alt="Food Blog Repository"/>
+  </a>
+</p>
+
+### 🍽️ Culinary Inquiry — Food Science Journal
+
+A modern, immersive food science journal exploring ingredients, cooking techniques, browning reactions, fermentation, and culinary culture.
+
+**Built with:** React.js • TypeScript • Vite • CSS Animations
+
+<p align="center">
+  <a href="https://github.com/anupsb2003/Food-blog">
+    <img src="https://img.shields.io/badge/Explore_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Project"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupsb2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Anup's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupsb2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupsb2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anupsb2003/anupsb2003/output/github-contribution-grid-snake.svg" alt="Animated GitHub Contribution Snake"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/anup-s-b-4095812b4" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Anup S B LinkedIn"
-      height="30"
-      width="40"
-    />
+<p align="center">
+  <a href="https://anupsb-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
   </a>
-
-  <a href="https://www.leetcode.com/anupsb2003" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="Anup S B LeetCode"
-      height="30"
-      width="40"
-    />
+  <a href="https://linkedin.com/in/anup-s-b-4095812b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/anupsb2003">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:anupsb2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🎯 2026 Goals
 
-### Frontend & Mobile Development
-
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-</a>
-
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-</a>
-
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-</a>
-
-</p>
-
-### Backend, Databases & Development
-
-<p align="left">
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</a>
-
-</p>
-
-### AI, Machine Learning & Data Science
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</a>
-
-</p>
-
-### Programming Languages
-
-<p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-</a>
-
-</p>
+* [ ] Build production-ready full-stack applications.
+* [ ] Improve JavaScript and TypeScript expertise.
+* [ ] Develop scalable backend systems.
+* [ ] Explore AI-powered application development.
+* [ ] Contribute to open-source projects.
+* [ ] Deploy more projects to the cloud.
+* [ ] Strengthen DSA and system design skills.
 
 ---
 
 <h3 align="center">
-  💡 Building intelligent applications with AI, modern web technologies, and mobile development.
+  💻 Code. Create. Innovate.
 </h3>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:111827,100:00e5ff&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile! ⭐</strong>
 </p>
