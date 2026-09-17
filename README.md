@@ -40,9 +40,9 @@
 
 <p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=anupsb2003&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://www.linkedin.com/in/anup-s-b-4095812b4/" alt="Profile Views"/>
 
-  <img src="https://img.shields.io/github/followers/anupsb2003?label=FOLLOWERS&style=for-the-badge&color=7c3aed" alt="Followers"/>
+  <img src="https://www.linkedin.com/in/anup-s-b-4095812b4/" alt="Followers"/>
 
 </p>
 
