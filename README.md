@@ -36,24 +36,26 @@
 
 </p>
 
-<!-- Profile Views -->
+
+<!-- Profile Views & LinkedIn -->
 
 <p align="center">
 
+  <!-- Profile Views Badge -->
   <img
     src="https://komarev.com/ghpvc/?username=anupsb2003&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge"
     alt="Profile Views"
   />
 
-  <img
-    src="https://img.shields.io/github/followers/anupsb2003?label=FOLLOWERS&style=for-the-badge&color=7c3aed"
-    alt="Followers"
-  />
+  <!-- LinkedIn Badge - Clickable -->
+  <a href="https://www.linkedin.com/in/anup-s-b-4095812b4/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Profile"
+    />
+  </a>
 
 </p>
-
----
-
 <!-- ======================= INTRO =========================== -->
 
 <h2 align="center">👋 Hello, World!</h2>
