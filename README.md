@@ -101,14 +101,14 @@
 ### ⚛️ Full Stack Developer
 
 Building modern web applications using React, TypeScript, JavaScript, Java, and backend technologies.
-
+    <
     </td>
     <td width="50%" align="center">
 
 ### 🎨 Creative Developer
 
 Interested in animated interfaces, immersive UI/UX, interactive websites, and digital experiences.
-
+<
     </td>
   </tr>
   <tr>
@@ -117,14 +117,14 @@ Interested in animated interfaces, immersive UI/UX, interactive websites, and di
 ### 🧠 Problem Solver
 
 Practicing Java, JavaScript, SQL, DSA, logical reasoning, and coding challenges.
-
+<
     </td>
     <td width="50%" align="center">
 
 ### 🚀 Continuous Learner
 
 Exploring AI-powered applications, cloud deployment, system design, and new technologies.
-
+<
     </td>
   </tr>
 </table>
