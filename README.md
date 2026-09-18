@@ -141,61 +141,82 @@
 
 <h3 align="center">💻 My Developer Profile</h3>
 
-```typescript
-const anup = {
-  name: "Anup S B",
-  role: "Full Stack Developer",
-  location: "Bangalore, India",
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/👨‍💻_ROLE-Full_Stack_Developer-00E5FF?style=for-the-badge&labelColor=050816" alt="Role"/>
+      <br/><br/>
+      <strong>Full Stack Developer</strong>
+      <br/>
+      <sub>Building modern and scalable applications</sub>
+    </td>
 
-  frontend: [
-    "React.js",
-    "React Native",
-    "TypeScript",
-    "JavaScript",
-    "Next.js",
-    "Vite",
-    "HTML5",
-    "CSS3"
-  ],
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/📍_LOCATION-Bangalore%2C_India-7C3AED?style=for-the-badge&labelColor=050816" alt="Location"/>
+      <br/><br/>
+      <strong>Bangalore, India</strong>
+      <br/>
+      <sub>Passionate about technology and innovation</sub>
+    </td>
+  </tr>
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "Java",
-    "Python"
-  ],
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚛️ Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,vite,html,css" alt="Frontend skills"/>
+      </p>
+    </td>
 
-  databases: [
-    "MySQL",
-    "MongoDB",
-    "PostgreSQL"
-  ],
+    <td align="center" width="50%">
+      <h3>🖥️ Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend skills"/>
+      </p>
+    </td>
+  </tr>
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Figma",
-    "Vercel",
-    "VS Code"
-  ],
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database skills"/>
+      </p>
+    </td>
 
-  interests: [
-    "Full Stack Development",
-    "Interactive UI/UX",
-    "AI & Machine Learning",
-    "Problem Solving"
-  ],
+    <td align="center" width="50%">
+      <h3>🛠️ Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" alt="Tools"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  currentlyLearning: [
-    "Advanced JavaScript",
-    "System Design",
-    "Cloud Deployment",
-    "AI-powered Applications"
-  ],
+<h3 align="center">🌟 Areas of Interest</h3>
 
-  motto: "Code with purpose. Build with creativity."
-};
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Development-00E5FF?style=for-the-badge&labelColor=050816" alt="Full Stack Development"/>
+  <img src="https://img.shields.io/badge/Interactive_UI%2FUX-7C3AED?style=for-the-badge&labelColor=050816" alt="Interactive UI UX"/>
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-EC4899?style=for-the-badge&labelColor=050816" alt="AI and Machine Learning"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=for-the-badge&labelColor=050816" alt="Problem Solving"/>
+</p>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_JavaScript-00E5FF?style=flat-square" alt="Advanced JavaScript"/>
+  <img src="https://img.shields.io/badge/System_Design-7C3AED?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Cloud_Deployment-EC4899?style=flat-square" alt="Cloud Deployment"/>
+  <img src="https://img.shields.io/badge/AI--Powered_Applications-FFA116?style=flat-square" alt="AI powered applications"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Code+with+purpose.;Build+with+creativity.;Learn+with+curiosity.;Improve+every+day."
+    alt="Animated developer motto"
+  />
+</p>
 
 <h3 align="center">⚡ Beyond the Code</h3>
 
