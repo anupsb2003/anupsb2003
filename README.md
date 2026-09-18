@@ -139,56 +139,52 @@
 
 <br/>
 
-<h3 align="center">💻 My Developer Profile</h3>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/👨‍💻_ROLE-Full_Stack_Developer-00E5FF?style=for-the-badge&labelColor=050816" alt="Role"/>
-      <br/><br/>
-      <strong>Full Stack Developer</strong>
-      <br/>
-      <sub>Building modern and scalable applications</sub>
+      <h3>👨‍💻 Full Stack Developer</h3>
+      <p>Building modern and scalable applications.</p>
     </td>
-
+<
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/📍_LOCATION-Bangalore%2C_India-7C3AED?style=for-the-badge&labelColor=050816" alt="Location"/>
-      <br/><br/>
-      <strong>Bangalore, India</strong>
-      <br/>
-      <sub>Passionate about technology and innovation</sub>
+      <h3>📍 Bangalore, India</h3>
+      <p>Passionate about technology and innovation.</p>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
       <h3>⚛️ Frontend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,vite,html,css" alt="Frontend skills"/>
-      </p>
+      <img
+        src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,vite,html,css"
+        alt="Frontend skills"
+      />
     </td>
-
+<
     <td align="center" width="50%">
       <h3>🖥️ Backend</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" alt="Backend skills"/>
-      </p>
+      <img
+        src="https://skillicons.dev/icons?i=nodejs,express,java,python"
+        alt="Backend skills"
+      />
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
       <h3>🗄️ Databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database skills"/>
-      </p>
+      <img
+        src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"
+        alt="Database skills"
+      />
     </td>
-
+<
     <td align="center" width="50%">
       <h3>🛠️ Tools</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" alt="Tools"/>
-      </p>
+      <img
+        src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode"
+        alt="Development tools"
+      />
     </td>
   </tr>
 </table>
