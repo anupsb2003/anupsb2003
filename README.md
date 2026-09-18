@@ -145,7 +145,7 @@
       <h3>👨‍💻 Full Stack Developer</h3>
       <p>Building modern and scalable applications.</p>
     </td>
-<
+.
     <td align="center" width="50%">
       <h3>📍 Bangalore, India</h3>
       <p>Passionate about technology and innovation.</p>
@@ -160,7 +160,7 @@
         alt="Frontend skills"
       />
     </td>
-<
+.
     <td align="center" width="50%">
       <h3>🖥️ Backend</h3>
       <img
@@ -178,7 +178,7 @@
         alt="Database skills"
       />
     </td>
-<
+.
     <td align="center" width="50%">
       <h3>🛠️ Tools</h3>
       <img
