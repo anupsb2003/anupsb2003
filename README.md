@@ -90,46 +90,56 @@
   />
 </p>
 
+
 <!-- ======================== ABOUT ME ======================= -->
 
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Creative+UI%2FUX+Builder;Problem+Solver;Continuous+Learner"
+    alt="Animated About Me heading"
+  />
+</p>
+
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-
-### ⚛️ Full Stack Developer
-
-Building modern web applications using React, TypeScript, JavaScript, Java, and backend technologies.
-    <
+    <td align="center" width="50%">
+      <h3>⚛️ Full Stack Developer</h3>
+      <p>
+        Building modern web applications using React, TypeScript,
+        JavaScript, Java, and backend technologies.
+      </p>
     </td>
-    <td width="50%" align="center">
-
-### 🎨 Creative Developer
-
-Interested in animated interfaces, immersive UI/UX, interactive websites, and digital experiences.
-<
+    <td align="center" width="50%">
+      <h3>🎨 Creative Developer</h3>
+      <p>
+        Interested in animated interfaces, immersive UI/UX,
+        interactive websites, and digital experiences.
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-
-### 🧠 Problem Solver
-
-Practicing Java, JavaScript, SQL, DSA, logical reasoning, and coding challenges.
-<
+    <td align="center" width="50%">
+      <h3>🧠 Problem Solver</h3>
+      <p>
+        Practicing Java, JavaScript, SQL, DSA,
+        logical reasoning, and coding challenges.
+      </p>
     </td>
-    <td width="50%" align="center">
-
-### 🚀 Continuous Learner
-
-Exploring AI-powered applications, cloud deployment, system design, and new technologies.
-<
+    <td align="center" width="50%">
+      <h3>🚀 Continuous Learner</h3>
+      <p>
+        Exploring AI-powered applications, cloud deployment,
+        system design, and modern technologies.
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<h3 align="center">💻 My Developer Profile</h3>
 
 ```typescript
 const anup = {
@@ -187,6 +197,8 @@ const anup = {
 };
 ```
 
+<h3 align="center">⚡ Beyond the Code</h3>
+
 <p align="center">
   <img
     src="https://img.shields.io/badge/💻_BUILD-Modern_Applications-00E5FF?style=for-the-badge&labelColor=050816"
@@ -207,6 +219,10 @@ const anup = {
 - 💡 Interested in creating beautiful interfaces with practical functionality.
 - 🤝 Open to collaborating on React, full-stack, and open-source projects.
 - 🎯 Improving problem-solving, DSA, system design, and development skills.
+
+<p align="center">
+  <strong>⚡ Turning ideas into digital experiences.</strong>
+</p>
 
 <br/>
 
