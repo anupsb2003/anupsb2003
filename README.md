@@ -74,7 +74,7 @@
     alt="Animated welcome message"
   />
 </p>
-
+ 
 <p align="center">
   <strong>
     I'm Anup S B — a passionate Full Stack Developer focused on creating
