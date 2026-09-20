@@ -482,7 +482,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/anupsb2003/anupsb2003/output/github-contribution-grid-snake.svg"
-    alt="Animated GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
