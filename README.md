@@ -356,10 +356,10 @@
 <p align="center">
   <a href="https://github.com/anupsb2003/Food-blog" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/anupsb2003/Food-blog/main/src/assets/image.png"
-      alt="Culinary Inquiry Food Science Journal"
-      width="100%"
-    />
+  src="https://raw.githubusercontent.com/anupsb2003/Food-blog/main/src/assets/food-blog.png"
+  alt="Food Blog Website Preview"
+  width="100%"
+/>
   </a>
 </p>
 
