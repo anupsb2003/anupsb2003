@@ -435,13 +435,13 @@
     alt="Anup's GitHub statistics"
     width="49%"
   />
+
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anupsb2003&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=anupsb2003&theme=tokyonight&hide_border=true"
     alt="Anup's GitHub contribution streak"
     width="49%"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupsb2003&layout=compact&theme=tokyonight&hide_border=true"
