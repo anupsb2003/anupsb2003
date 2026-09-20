@@ -420,33 +420,20 @@
 
 <!-- ===================== GITHUB ANALYTICS ================== -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+<h2 align="center">🔥 GITHUB STREAK</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Tracking+My+Coding+Journey;Every+Contribution+Counts;Keep+Building+Keep+Learning"
-    alt="Animated GitHub analytics heading"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Keep+Building+Every+Day+🔥;Consistency+Creates+Progress+⚡;Code+%E2%80%A2+Learn+%E2%80%A2+Repeat+🚀"
+    alt="Coding animation"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anupsb2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-    alt="Anup's GitHub statistics"
-    width="49%"
-  />
-
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=anupsb2003&theme=tokyonight&hide_border=true"
-    alt="Anup's GitHub contribution streak"
-    width="49%"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupsb2003&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Anup's most used programming languages"
-    width="45%"
+    alt="Anup's GitHub Streak"
+    width="90%"
   />
 </p>
 
