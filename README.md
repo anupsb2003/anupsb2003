@@ -424,25 +424,12 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=70A5FD&center=true&vCenter=true&width=600&lines=🔥+Keep+The+Streak+Alive+🔥;💻+Code+•+Commit+•+Repeat+💻;🚀+Building+Every+Single+Day+🚀"
-    alt="GitHub streak animation"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=anupsb2003&theme=tokyonight&hide_border=true"
-    alt="Anup's GitHub Contribution Streak"
-    width="75%"
+    alt="Anup's GitHub Streak"
+    width="90%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=2AC3DE&center=true&vCenter=true&width=600&lines=Consistency+%3E+Motivation;One+Commit+at+a+Time...;Keep+Building.+Keep+Learning.+⚡"
-    alt="Coding motivation animation"
-  />
-</p>
 
 ---
 
