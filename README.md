@@ -565,13 +565,6 @@
 <!-- ========================= FOOTER ======================== -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Code.+Create.+Innovate.;Thanks+For+Visiting+My+Profile!;Let's+Build+Something+Amazing+🚀"
-    alt="Animated footer message"
-  />
-</p>
-
-<p align="center">
   <strong>⭐ Thanks for visiting my profile!</strong>
 </p>
 
