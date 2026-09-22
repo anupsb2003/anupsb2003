@@ -3,7 +3,6 @@
 <!--                  ANUP S B | GITHUB PROFILE                -->
 <!-- ========================================================= -->
 
-<!-- ========================= HERO ========================== -->
 
 <p align="center">
   <img
@@ -139,55 +138,6 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>👨‍💻 Full Stack Developer</h3>
-      <p>Building modern and scalable applications.</p>
-    </td>
-.
-    <td align="center" width="50%">
-      <h3>📍 Bangalore, India</h3>
-      <p>Passionate about technology and innovation.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚛️ Frontend</h3>
-      <img
-        src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,vite,html,css"
-        alt="Frontend skills"
-      />
-    </td>
-.
-    <td align="center" width="50%">
-      <h3>🖥️ Backend</h3>
-      <img
-        src="https://skillicons.dev/icons?i=nodejs,express,java,python"
-        alt="Backend skills"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗄️ Databases</h3>
-      <img
-        src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"
-        alt="Database skills"
-      />
-    </td>
-.
-    <td align="center" width="50%">
-      <h3>🛠️ Tools</h3>
-      <img
-        src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode"
-        alt="Development tools"
-      />
-    </td>
-  </tr>
-</table>
 
 <h3 align="center">🌟 Areas of Interest</h3>
 
