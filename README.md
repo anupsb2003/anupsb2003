@@ -233,7 +233,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,vite,tailwind,html,css,figma"
+    src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,html,css"
     alt="Frontend technologies"
   />
 </p>
@@ -249,7 +249,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=nodejs,express,java,python,mysql,mongodb,postgresql,firebase"
+    src="https://skillicons.dev/icons?i=express,java,mysql,mongodb,firebase"
     alt="Backend and database technologies"
   />
 </p>
@@ -259,23 +259,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<h3 align="center">🤖 AI, ML & Data Science</h3>
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"
-    alt="AI and machine learning technologies"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/SHAP-7C3AED?style=flat-square" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/LIME-00A67D?style=flat-square" alt="LIME"/>
 </p>
 
 <h3 align="center">⚙️ Tools & Platforms</h3>
